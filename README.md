@@ -1,4 +1,4 @@
-# MY-SQL-practice-Project
+# MY-SQL-practice-Projects
 
 # Details about each project.
 
