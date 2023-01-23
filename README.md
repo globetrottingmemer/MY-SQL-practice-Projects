@@ -1,5 +1,3 @@
-# MY-SQL-practice-Projects
-
 # Details about each project.
 
 ## **1. School Database Pratice:**
